@@ -27,7 +27,7 @@
 
 - 🔐 [Amigo Secreto (ONE)](https://github.com/DouglasRic/Challenge-Amigo-Secreto)
 - 📚 [Sistema de Gerenciamento de Biblioteca](https://github.com/DouglasRic/projeto-biblioteca)
-- 📊 VISUALIZAR_DADOS — Projeto com tratamento e análise de dados em Python
+- 📊 [VISUALIZAR_DADOS](https://github.com/DouglasRic/VISUALIZAR_DADOS) — Projeto com tratamento e análise de dados em Python
 - 🏬 [Alura Store - Análise de Lojas](https://github.com/DouglasRic/alura-store-desafio)
 
 ---
@@ -45,3 +45,4 @@
 
 Você pode me encontrar no LinkedIn:  
 [![LinkedIn](https://img.shields.io/badge/-Douglas%20Ricardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dougricar/)](https://www.linkedin.com/in/dougricar/)
+
